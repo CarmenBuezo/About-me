@@ -1,10 +1,9 @@
 /*** CSS below just for debug purposes*/ 
-div {
+/*div {
   border: 1px solid grey;
-}
+}*/
 
 section {
-  outline: 1px solid grey;
   width: 60%;
   margin: auto;
   margin-top: 5%;
